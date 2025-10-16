@@ -9,6 +9,7 @@ using System.Windows.Input;
 
 namespace QuanLyKho.ViewModel
 {
+    //aidd
     public class UnitViewModel : BaseViewModel
     {
         private ObservableCollection<Unit> _List;
