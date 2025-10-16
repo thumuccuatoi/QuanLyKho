@@ -56,9 +56,6 @@ namespace QuanLyKho.ViewModel
             add { CommandManager.RequerySuggested += value; }
             remove { CommandManager.RequerySuggested -= value; }
         }
-        void testc()
-        {
-            MessageBox.Show("");
-        }
+        
     }
 }
